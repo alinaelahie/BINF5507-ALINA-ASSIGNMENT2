@@ -1,8 +1,8 @@
 # BINF5507-ALINA-ASSIGNMENT2
 Heart Disease Prediction: Regression and Classification Models
 Objective:
-The goal of this is to:
 
+The goal of this is to:
 1. Train and evaluate machine learning models for both regression and classification tasks.
 3. Visualize and interpret the effects of hyperparameters.
 2. Reflect on the model selection process and derive insights from the results.
