@@ -1,4 +1,4 @@
-# BINF5507-ALINA-ASSIGNMENT2
+# Heart Disease Risk Modeling: Regression & Classification with ML
 Heart Disease Prediction: Regression and Classification Models
 Objective:
 
